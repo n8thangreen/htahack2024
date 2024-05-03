@@ -1,0 +1,126 @@
+---
+title: ""
+description: ""
+format:
+  html:
+    toc: false
+---
+
+<style>
+  .registration-button {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .registration-button:hover {
+    background-color: #45a049;
+  }
+</style>
+
+<center><a><img src="images/Queens-University-Belfast-Website-Header-Mobile-2023.jpg" alt="" width="800px" height="300px"/></a></center>
+
+<center>
+
+<h1>HTA Hackathon in R 2024</h1>
+
+<a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform" target="_blank" class="registration-button">Register Now</a>
+
+</center>
+
+<br>
+
+## A 2 day event in Belfast, Ireland for health economists, statisticians and R users
+
+### Event details
+Are you interested in using the power of R programming to tackle problems in health economics?
+
+Do you want to join up with a community of like-minded people?
+
+Over 2 days in November 2019 Imperial College London will be hosting the first health economics in R hackathon.
+
+This will involve small group project work developing novel health economics tools, as well as training in related data science skills.
+
+See the agenda for more details.  
+
+This event is open to participants of all levels and experience in using R.
+
+Financial support for travel and over-night accommodation is available to those that qualify.
+
+
+
+Example applications could be:
+
+* Extending existing packages e.g. extended multistate model packages to explicitly incorporate cost-effectiveness analysis.
+
+* Better handling of sensitivity analysis data
+
+* Improving visualisation of economic evaluation data, statistics and uncertainties​
+
+* Improving ease of use e.g simply be adding an extra level of abstraction to existing R package so that new higher-level functions can be exploited by practitioners and policymakers
+
+ 
+
+Outputs will include:
+
+* Kick-start early-stage collaboration among academics, government and industry.
+
+* Set-up new networks to promote the exchange of ideas, information sharing, best practice, and other research goals.
+
+* Strengthen existing and establish new communities of interest.
+
+* Propose future collaboration and projects.
+
+* Establish a hackathon format for future events around other economic evaluations themes.
+
+
+
+To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a strict code of conduct.
+
+More details can be found on our FAQ page.
+
+# Agenda
+
+## Workshop Agenda
+
+| Time        | Session             | Speaker          |
+|-------------|---------------------|------------------|
+| 09:00 - 10:00 | Introduction        | John Doe         |
+| 10:00 - 11:00 | Workshop Session 1  | Jane Smith       |
+| 11:00 - 11:15 | Break               |                  |
+| 11:15 - 12:15 | Workshop Session 2  | Emily Johnson    |
+| 12:15 - 13:15 | Lunch               |                  |
+| 13:15 - 14:15 | Workshop Session 3  | Mark Brown       |
+| 14:15 - 14:30 | Break               |                  |
+| 14:30 - 15:30 | Workshop Session 4  | Sarah Williams   |
+| 15:30 - 16:00 | Q&A / Conclusion    |                  |
+
+
+# FAQ
+
+# Location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9248.446155104257!2d-5.950528792187561!3d54.5844087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486108ea57227da7%3A0x3cecfa2a15d642e1!2sQueen&#39;s%20University%20Belfast!5e0!3m2!1sen!2suk!4v1714749567792!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+# Registration
+
+<a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform" target="_blank" class="registration-button">Register Now</a>
+
+
+
+# Contact Us
+
+To learn more, don’t hesitate to get in touch
+
+**Email:** [contact@example.com](mailto:contact@example.com)
+
+
