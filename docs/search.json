@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#a-2-day-event-in-belfast-ireland-for-health-economists-statisticians-and-r-users",
+    "href": "index.html#a-2-day-event-in-belfast-ireland-for-health-economists-statisticians-and-r-users",
+    "title": "\nHTA Hackathon in R 2024\n",
+    "section": "A 2 day event in Belfast, Ireland for health economists, statisticians and R users",
+    "text": "A 2 day event in Belfast, Ireland for health economists, statisticians and R users\n\nEvent details\nAre you interested in using the power of R programming to tackle problems in health economics?\nDo you want to join up with a community of like-minded people?\nOver 2 days in November 2019 Imperial College London will be hosting the first health economics in R hackathon.\nThis will involve small group project work developing novel health economics tools, as well as training in related data science skills.\nSee the agenda for more details.\nThis event is open to participants of all levels and experience in using R.\nFinancial support for travel and over-night accommodation is available to those that qualify.\nExample applications could be:\n\nExtending existing packages e.g. extended multistate model packages to explicitly incorporate cost-effectiveness analysis.\nBetter handling of sensitivity analysis data\nImproving visualisation of economic evaluation data, statistics and uncertainties​\nImproving ease of use e.g simply be adding an extra level of abstraction to existing R package so that new higher-level functions can be exploited by practitioners and policymakers\n\nOutputs will include:\n\nKick-start early-stage collaboration among academics, government and industry.\nSet-up new networks to promote the exchange of ideas, information sharing, best practice, and other research goals.\nStrengthen existing and establish new communities of interest.\nPropose future collaboration and projects.\nEstablish a hackathon format for future events around other economic evaluations themes.\n\nTo ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a strict code of conduct.\nMore details can be found on our FAQ page."
+  },
+  {
+    "objectID": "index.html#workshop-agenda",
+    "href": "index.html#workshop-agenda",
+    "title": "\nHTA Hackathon in R 2024\n",
+    "section": "Workshop Agenda",
+    "text": "Workshop Agenda\n\n\n\nTime\nSession\nSpeaker\n\n\n\n\n09:00 - 10:00\nIntroduction\nJohn Doe\n\n\n10:00 - 11:00\nWorkshop Session 1\nJane Smith\n\n\n11:00 - 11:15\nBreak\n\n\n\n11:15 - 12:15\nWorkshop Session 2\nEmily Johnson\n\n\n12:15 - 13:15\nLunch\n\n\n\n13:15 - 14:15\nWorkshop Session 3\nMark Brown\n\n\n14:15 - 14:30\nBreak\n\n\n\n14:30 - 15:30\nWorkshop Session 4\nSarah Williams\n\n\n15:30 - 16:00\nQ&A / Conclusion"
+  }
+]
