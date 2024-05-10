@@ -1,13 +1,21 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "htahack2024"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      # - about.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://github.com/n8thangreen/htahack2024
+          - text: Report a Bug
+            href: https://github.com/n8thangreen/htahack2024/issues
 
 format:
   html:
@@ -16,4 +24,6 @@ format:
     toc: true
 
 editor: visual
+
+
 
