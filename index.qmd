@@ -31,11 +31,10 @@ format:
 
 <center>
 
-<h1>HTA Hackathon in R     
+<h1>HTA Hackathon in R\
 xx-xx August 2024</h1>
 
-<center><a><img src="images/QUB-logo.png" width="200px" height="100px"/></a>
-<a><img src="images/ICMS-logo.png" width="200px" height="100px"/></a></center>
+<center><a><img src="images/QUB-logo.png" width="200px" height="100px"/></a> <a><img src="images/ICMS-logo.png" width="200px" height="100px"/></a></center>
 
 <br>
 
@@ -44,41 +43,42 @@ xx-xx August 2024</h1>
 </center>
 
 <center>
-<h2> A 2 day event at Queen's University Belfast, Ireland for health economists, statisticians and R users </h2>
+
+<h2>A 2 day event at Queen's University Belfast, Ireland for health economists, statisticians and R users</h2>
+
 </center>
 
 ### Overview
 
-Are you interested in using the power of <span style="color: blue;">R programming</span> to tackle problems in health economics?
+Are you interested in using the power of [R programming]{style="color: blue;"} to tackle problems in health economics?
 
-Do you want to join up with a <span style="color: blue;">community of like-minded people</span>?
+Do you want to join up with a [community of like-minded people]{style="color: blue;"}?
 
-This will involve <span style="color: blue;">small group project work</span> developing novel health economics tools, as well as training in related data science skills.
+This will involve [small group project work]{style="color: blue;"} developing novel health economics tools, as well as training in related data science skills.
 
 See the [agenda](#agenda) for more details.
 
-This event is <span style="color: blue;">open to all participants</span>, with different levels and experience in using R.
+This event is [open to all participants]{style="color: blue;"}, with different levels and experience in using R.
 
-<span style="color: blue;">Financial support</span> for travel and over-night accommodation is available to those that qualify.
+[Financial support]{style="color: blue;"} for travel and over-night accommodation is available to those that qualify.
 
 ### Challenge themes
 
 To help with development and selection, the tackled problems will fit within five broad challenge areas. These are:
 
-*	Reproducibility in HTA
-*	Reading, cleaning, and storing HTA data
-*	Reporting HTA results
-*	HTA model robustness
-*	HTA functionality and workflows 
+-   Reproducibility in HTA
+-   Reading, cleaning, and storing HTA data
+-   Reporting HTA results
+-   HTA model robustness
+-   HTA functionality and workflows
 
 Example projects within these themes could be, but are not limited to:
 
-* Extending existing packages e.g. extended multistate model packages to explicitly incorporate cost-effectiveness analysis. 
-*	Better handling of sensitivity analysis data 
-*	Improving visualisation of economic evaluation data, statistics and uncertainties 
-*	Improving ease of use e.g. simply by adding an extra level of abstraction to existing R package so that new higher-level functions can be exploited by practitioners and policymakers
-*	AI for model creating, checking and reporting
-
+-   Extending existing packages e.g. extended multistate model packages to explicitly incorporate cost-effectiveness analysis.
+-   Better handling of sensitivity analysis data
+-   Improving visualisation of economic evaluation data, statistics and uncertainties
+-   Improving ease of use e.g. simply by adding an extra level of abstraction to existing R package so that new higher-level functions can be exploited by practitioners and policymakers
+-   AI for model creating, checking and reporting
 
 ### Outputs
 
@@ -89,64 +89,74 @@ Including the following
 -   Strengthen existing and establish new communities of interest.
 -   Propose future collaboration and projects.
 -   Establish a hackathon format for future events around other economic evaluations themes.
--  Develop a set of R packages that can be used by the wider health economics community.
-- Develop a set of training materials that can be used by the wider health economics community.
-- Fun and enjoyment!
+-   Develop a set of R packages that can be used by the wider health economics community.
+-   Develop a set of training materials that can be used by the wider health economics community.
+-   Fun and enjoyment!
 
-To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a strict __code of conduct__.
+To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a strict [code of conduct](code-of-conduct.qmd).
 
 More details can be found in [FAQ](#faq).
 
 # Workshop Agenda {#agenda}
 
-| Time          | Session            | Speaker        |
-|---------------|--------------------|----------------|
-| __DAY 1__         |    |                |
-| 10:00         | Registration & Welcome breakfast |      |
-|               | Introductions, setup, and aims   |                |
-|               | Problem presentations and team forming    |                |
-| 12:00 - 13:00 | Networking Lunch               |                |
-| 13:00 - 17:30 | Coding/skills sessions  |      |
-| 17:30              | Wrap-up    |                |
-| 18:00         | Evening meal/drinks    |                |
-| __DAY 2__         |     |                |
-| 9:00 - 10:00 | Skills session               |                |
-| 10:00 - 10:30 | Breakfast  |  |
-| 10:30         | Small team project work    |                |
-| 12:00 - 12:45 | Networking Lunch     |                |
-| 12:45         | Small team project work      |                |
-| 15:30 - 16:00 | Presentations, feedback, wrap-up and finish       |                |
+| Time          | Session                                     | Speaker |
+|---------------|---------------------------------------------|---------|
+| **DAY 1**     |                                             |         |
+| 10:00         | Registration & Welcome breakfast            |         |
+|               | Introductions, setup, and aims              |         |
+|               | Problem presentations and team forming      |         |
+| 12:00 - 13:00 | Networking Lunch                            |         |
+| 13:00 - 17:30 | Coding/skills sessions                      |         |
+| 17:30         | Wrap-up                                     |         |
+| 18:00         | Evening meal/drinks                         |         |
+| **DAY 2**     |                                             |         |
+| 9:00 - 10:00  | Skills session                              |         |
+| 10:00 - 10:30 | Breakfast                                   |         |
+| 10:30         | Small team project work                     |         |
+| 12:00 - 12:45 | Networking Lunch                            |         |
+| 12:45         | Small team project work                     |         |
+| 15:30 - 16:00 | Presentations, feedback, wrap-up and finish |         |
 
 # FAQ {#faq}
 
 ### What is a hackathon?
+
 A hackathon is an event where participants can learn, build and share their created computer code over the course of a few days in a relaxed and welcoming atmosphere. Participants don’t have to be an expert programmer. The event is designed to be inclusive and fun.
 
 ### Why people should take part?
+
 This event will be a unique opportunity to meet and form a community of like-minded people, hear from expert speakers and have the chance to develop your innovative ideas to solve HTA problems.
 
 ### What are the attendance costs?
+
 The event will be free to attend. We will provide financial support with travel and accommodation for those that qualify. Please indicate in the application form. However, there is the expectation that those who can cover their own travel costs from their own funds will do so.
 
 ### Who can apply?
+
 The workshop is open to all. Attendees must be over 18. Because of the nature of the event attendees must already have some grounding in using R. The most important thing is enthusiasm and a willingness to learn. We are interested in people who have domain expertise but are not expert programmers, and the other way around. There will be some up-skilling talks and demonstrations during the workshop in specialist areas.
 
 ### How many participants?
+
 The number of spaces will be limited to 30 participants.
 
 ### Is there training?
+
 Skills sessions will provide additional capacity building in R and software engineer from experiences experts. The RSE are employed to write software engineer quality code in a research environment and so will offer guidance and advice with knowledge from both perspectives. Sessions will cover e.g. unit testing, literate programming, package development, git and GitHub, but there will be some flexibility catered for, depending on the demands of the group.
 
 ### Is there food and drink?
+
 A buffet-style breakfast and lunch will be provided on both days, ensuring to cater for dietary requirements. An evening meal and networking event will be arranged for the end of day one at [Riddel Hall](https://www.qub.ac.uk/sites/campus-food-drink/RiddelHall/) at QUB. Coffee and refreshments will be made available throughout the event. This is an important component for this type of event.
 
 ### Why Queens University Belfast?
-QUB is a global research institute with state-of-the-art computing facilities. In particular, a bespoke computer room within the School of Electronics, Engineering and Computer Science has been fitted for teaching Data Analytics. These computers have all the latest software and packages, including R, and high processing power. This space has been used before for external events and is a perfect space to hold this event. 
+
+QUB is a global research institute with state-of-the-art computing facilities. In particular, a bespoke computer room within the School of Electronics, Engineering and Computer Science has been fitted for teaching Data Analytics. These computers have all the latest software and packages, including R, and high processing power. This space has been used before for external events and is a perfect space to hold this event.
 
 ### How are the teams formed and problem selection?
+
 Before the start of the hackathon there will be an open conversation for idea generation, about what particular problems the participants are most interested in tackling. Then at the event itself, a handful of project will be pitched on the opening morning and participants are free to pick and choose which they would like to work on.
 
 ### Who are the instructors, support experts and presenters?
+
 There will be a participant project lead for each group of 3-5 people. There will also be R experts on-hand “floating” around the groups.
 
 # Location
@@ -170,4 +180,3 @@ To learn more, don’t hesitate to get in touch
 <br>
 
 This event was kindly funded by the [International Centre for Mathematical Sciences (ICMS)](https://www.icms.org.uk/funding-opportunities/strategic-workshops)
-
