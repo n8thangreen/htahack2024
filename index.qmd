@@ -38,7 +38,7 @@ xx-xx August 2024</h1>
 
 <br>
 
-<a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform" target="_blank" class="registration-button">Register Now</a>
+<a href="https://forms.gle/1GejbDakJFnWejCz9" target="_blank" class="registration-button">Register Now</a>
 
 </center>
 
@@ -169,7 +169,7 @@ Both days will be held at [Queen's University Belfast, Ireland](https://www.qub.
 
 # Registration
 
-<a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform" target="_blank" class="registration-button">Register Now</a>
+<a href="https://forms.gle/1GejbDakJFnWejCz9" target="_blank" class="registration-button">Register Now</a>
 
 # Contact Us
 
