@@ -31,8 +31,8 @@ format:
 
 <center>
 
-<h1>HTA Hackathon in R\
-xx-xx August 2024</h1>
+<h1>R in HTA Hackathon\
+5th - 6th August 2024</h1>
 
 <center><a><img src="images/QUB-logo.png" width="200px" height="100px"/></a> <a><img src="images/ICMS-logo.png" width="200px" height="100px"/></a></center>
 
@@ -98,24 +98,34 @@ To ensure a safe, enjoyable, and friendly experience for everyone who participat
 More details can be found in [FAQ](#faq).
 
 # Workshop Agenda {#agenda}
+(Provisional and subject to change)
 
-| Time          | Session                                     | Speaker |
-|---------------|---------------------------------------------|---------|
-| **DAY 1**     |                                             |         |
-| 10:00         | Registration & Welcome breakfast            |         |
-|               | Introductions, setup, and aims              |         |
-|               | Problem presentations and team forming      |         |
-| 12:00 - 13:00 | Networking Lunch                            |         |
-| 13:00 - 17:30 | Coding/skills sessions                      |         |
-| 17:30         | Wrap-up                                     |         |
-| 18:00         | Evening meal/drinks                         |         |
-| **DAY 2**     |                                             |         |
-| 9:00 - 10:00  | Skills session                              |         |
-| 10:00 - 10:30 | Breakfast                                   |         |
-| 10:30         | Small team project work                     |         |
-| 12:00 - 12:45 | Networking Lunch                            |         |
-| 12:45         | Small team project work                     |         |
-| 15:30 - 16:00 | Presentations, feedback, wrap-up and finish |         |
+| Time          | Session                                     | 
+|---------------|---------------------------------------------|-
+| **DAY 1**     |                                             | 
+| _Monday 5th August_     |                                   | 
+| 9:00 - 9:30   | Registration & welcome breakfast            | 
+| 9:30 - 10:00  | Introductions, setup, and aims              | 
+| 10:00 - 10:30 | Problem presentations and team forming      | 
+| 10:30 - 11:00 | _Coffee_                                    | 
+| 11:00 - 12:30 | Coding                                      | 
+| 12:30 - 13:30 | _Networking Lunch_                          | 
+| 13:30 - 15:00 | Coding/skills sessions                      | 
+| 15:00 - 15:30 | _Coffee_                                    | 
+| 15:30 - 17:30 | Coding/skills sessions                      | 
+| 17:30         | Wrap-up                                     | 
+| 18:00         | Evening meal/drinks [Riddel Hall](https://www.qub.ac.uk/sites/campus-food-drink/RiddelHall/) |
+| **DAY 2**     |                                             | 
+| _Tuesday 6th August_     |                                  | 
+| 8:30 - 9:00   | Optional skills session                     | 
+| 9:00 - 9:30   | _Breakfast & coffee_                        | 
+| 9:30 - 10:30  | Coding                                      | 
+| 10:30 - 11:00 | _Coffee_                                    | 
+| 11:00 - 12:30 | Coding/skills sessions                      | 
+| 12:30 - 13:30 | _Networking Lunch_                          | 
+| 13:30 - 15:00 | Coding/skills sessions                      | 
+| 15:00 - 15:30 | Group presentations                         | 
+| 15:30 - 16:00 | Feedback, wrap-up and finish                | 
 
 # FAQ {#faq}
 
@@ -175,7 +185,7 @@ Both days will be held at [Queen's University Belfast, Ireland](https://www.qub.
 
 To learn more, don’t hesitate to get in touch
 
-**Email:** [contact\@example.com](mailto:contact@example.com)
+**Email:** [n(dot)green\@ucl(dot)ac(dot)uk](mailto:contact@example.com)
 
 <br>
 
