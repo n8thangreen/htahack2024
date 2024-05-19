@@ -58,7 +58,7 @@ This will involve [small group project work]{style="color: blue;"} developing no
 
 See the [agenda](#agenda) for more details.
 
-This event is [open to all participants]{style="color: blue;"}, with different levels and experience in using R.
+This event is [open to all participants]{style="color: blue;"}, with different levels and experience in using R. A selection process will take place once the registration closes.
 
 [Financial support]{style="color: blue;"} for travel and over-night accommodation is available to those that qualify.
 
@@ -101,32 +101,32 @@ More details can be found in [FAQ](#faq).
 
 (Provisional and subject to change)
 
-| Time                 | Session                                                                                      |     |
-|-------------|----------------------------------------------|-------------|
-| **DAY 1**            |                                                                                              |     |
-| *Monday 5th August*  |                                                                                              |     |
-| 9:00 - 9:30          | Registration & welcome breakfast                                                             |     |
-| 9:30 - 10:00         | Introductions, setup, and aims                                                               |     |
-| 10:00 - 10:30        | Problem presentations and team forming                                                       |     |
-| 10:30 - 11:00        | *Coffee*                                                                                     |     |
-| 11:00 - 12:30        | Coding                                                                                       |     |
-| 12:30 - 13:30        | *Networking Lunch*                                                                           |     |
-| 13:30 - 15:00        | Coding/skills sessions                                                                       |     |
-| 15:00 - 15:30        | *Coffee*                                                                                     |     |
-| 15:30 - 17:30        | Coding/skills sessions                                                                       |     |
-| 17:30                | Wrap-up                                                                                      |     |
-| 18:00                | Evening meal/drinks [Villa Italia](https://www.villaitaliarestaurant.co.uk)                  |     |
-| **DAY 2**            |                                                                                              |     |
-| *Tuesday 6th August* |                                                                                              |     |
-| 8:30 - 9:00          | Optional skills session                                                                      |     |
-| 9:00 - 9:30          | *Breakfast & coffee*                                                                         |     |
-| 9:30 - 10:30         | Coding                                                                                       |     |
-| 10:30 - 11:00        | *Coffee*                                                                                     |     |
-| 11:00 - 12:30        | Coding/skills sessions                                                                       |     |
-| 12:30 - 13:30        | *Networking Lunch*                                                                           |     |
-| 13:30 - 15:00        | Coding/skills sessions                                                                       |     |
-| 15:00 - 15:30        | Group presentations                                                                          |     |
-| 15:30 - 16:00        | Feedback, wrap-up and finish                                                                 |     |
+| Time                 | Session                                                                     |     |
+|---------------|------------------------------------------|---------------|
+| **DAY 1**            |                                                                             |     |
+| *Monday 5th August*  |                                                                             |     |
+| 9:00 - 9:30          | Registration & welcome breakfast                                            |     |
+| 9:30 - 10:00         | Introductions, setup, and aims                                              |     |
+| 10:00 - 10:30        | Problem presentations and team forming                                      |     |
+| 10:30 - 11:00        | *Coffee*                                                                    |     |
+| 11:00 - 12:30        | Coding                                                                      |     |
+| 12:30 - 13:30        | *Networking Lunch*                                                          |     |
+| 13:30 - 15:00        | Coding/skills sessions                                                      |     |
+| 15:00 - 15:30        | *Coffee*                                                                    |     |
+| 15:30 - 17:30        | Coding/skills sessions                                                      |     |
+| 17:30                | Wrap-up                                                                     |     |
+| 18:00                | Evening meal/drinks [Villa Italia](https://www.villaitaliarestaurant.co.uk) |     |
+| **DAY 2**            |                                                                             |     |
+| *Tuesday 6th August* |                                                                             |     |
+| 8:30 - 9:00          | Optional skills session                                                     |     |
+| 9:00 - 9:30          | *Breakfast & coffee*                                                        |     |
+| 9:30 - 10:30         | Coding                                                                      |     |
+| 10:30 - 11:00        | *Coffee*                                                                    |     |
+| 11:00 - 12:30        | Coding/skills sessions                                                      |     |
+| 12:30 - 13:30        | *Networking Lunch*                                                          |     |
+| 13:30 - 15:00        | Coding/skills sessions                                                      |     |
+| 15:00 - 15:30        | Group presentations                                                         |     |
+| 15:30 - 16:00        | Feedback, wrap-up and finish                                                |     |
 
 # FAQ {#faq}
 
@@ -144,12 +144,15 @@ The event will be free to attend. We will provide financial support with travel 
 
 ### Where to stay?
 
-You are responsible for booking your own travel and accommodation but we will provide more information when your place is confirmed.
-<!-- (Malone Lodge Hotel](https://www.themalonehotel.com/) which is close to the University. -->
+You are responsible for booking your own travel and accommodation but we will provide more information when your place is confirmed. <!-- (Malone Lodge Hotel](https://www.themalonehotel.com/) which is close to the University. -->
 
 ### Who can apply?
 
 The workshop is open to all. Attendees must be over 18. Because of the nature of the event attendees must already have some grounding in using R. The most important thing is enthusiasm and a willingness to learn. We are interested in people who have domain expertise but are not expert programmers, and the other way around. There will be some up-skilling talks and demonstrations during the workshop in specialist areas.
+
+### What is the selection process?
+
+We will select participants based on their experience and motivation. We are looking for a diverse and balanced group of participants from different backgrounds and experiences. We will be in contact with all applicants once the selection process is decided.
 
 ### How many participants?
 
