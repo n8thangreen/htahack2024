@@ -16,7 +16,7 @@ Welcome to the repository for the 2024 health economics in R hackathon.
 
 * Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/n8thangreen/htahack2024/issues).
 
-Event hashtag is `#rhack2024`
+Event hashtag is `#htahack2024`
 
 ## Code of conduct
 
