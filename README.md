@@ -5,7 +5,7 @@
 
 <br/>
 
-<center><a><img src="images/QUB-logo.png" width="200px" height="100px"/></a> <a><img src="images/ICMS-logo.png" width="200px" height="100px"/></a></center>
+<center><a href="https://www.qub.ac.uk/"><img alt="Queen's University Belfast" src="images/QUB-logo.png" width="200px" height="80px"/></a> <a href="https://www.icms.org.uk/"><img alt="International Centre for Mathematical Sciences" src="images/ICMS-logo.png" width="200px" height="100px"/></a><a href="https://rss.org.uk/"><img alt="The Royal Statistical Society" src="images/rss-logo.jpg" width="200px" height="200px"/></a></center>
 
 <br/>
 <br/>
