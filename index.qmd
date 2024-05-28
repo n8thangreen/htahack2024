@@ -34,10 +34,16 @@ format:
 <h1>R in HTA Hackathon\
 5th - 6th August 2024</h1>
 
-<div class="deadline-box">
-  <h3>Deadline: 7th of June, 2024</h3>
-</div>
+::: deadline-box
+<h3>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="red" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin-right: 8px;">
+  <path d="M1 21H23L12 2L1 21Z" />
+  <text x="12" y="16" font-size="12" text-anchor="middle" fill="white" font-family="Arial" dy=".3em">!</text>
+</svg>
+Deadline: 7th of June, 2024</h3>
+:::
 
+```{=html}
 <style>
 .deadline-box {
   border: 2px solid #ff0000; /* Red border */
@@ -52,8 +58,8 @@ format:
   margin-top: 0;
 }
 </style>
-
-<center><a href="https://www.qub.ac.uk/"><img alt="Queen's University Belfast" src="images/QUB-logo.png" width="200px" height="80px"/></a> <a href="https://www.icms.org.uk/"><img alt="International Centre for Mathematical Sciences" src="images/ICMS-logo.png" width="200px" height="100px"/></a><a href="https://rss.org.uk/"><img alt="The Royal Statistical Society" src="images/rss-logo.jpg" width="200px" height="200px"/></a></center>
+```
+<center><a href="https://www.qub.ac.uk/"><img src="images/QUB-logo.png" alt="Queen&apos;s University Belfast" width="200px" height="80px"/></a> <a href="https://www.icms.org.uk/"><img src="images/ICMS-logo.png" alt="International Centre for Mathematical Sciences" width="200px" height="100px"/></a><a href="https://rss.org.uk/"><img src="images/rss-logo.jpg" alt="The Royal Statistical Society" width="200px" height="200px"/></a></center>
 
 <br>
 
@@ -66,7 +72,6 @@ format:
 <h2>A 2 day event at Queen's University Belfast, Ireland for health economists, statisticians and R users</h2>
 
 </center>
-
 
 ### Overview
 
@@ -122,7 +127,7 @@ More details can be found in [FAQ](#faq).
 (Provisional and subject to change)
 
 | Time                 | Session                                                                     |     |
-|-----------------|---------------------------------------|-----------------|
+|------------------|-------------------------------------|------------------|
 | **DAY 1**            |                                                                             |     |
 | *Monday 5th August*  |                                                                             |     |
 | 9:00 - 9:30          | Registration & welcome breakfast                                            |     |
